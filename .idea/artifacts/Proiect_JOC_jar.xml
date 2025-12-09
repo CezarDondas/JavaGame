@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Proiect JOC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Proiect_JOC_jar</output-path>
+    <root id="archive" name="Proiect JOC.jar">
+      <element id="module-output" name="Proiect JOC" />
+    </root>
+  </artifact>
+</component>
